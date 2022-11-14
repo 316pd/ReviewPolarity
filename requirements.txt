@@ -1,4 +1,1 @@
 streamlit
-pickle
-re
-bs4
